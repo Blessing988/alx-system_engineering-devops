@@ -26,7 +26,7 @@ File 12-directory_permissions creates a script that creates a directory called d
 
 File 13-change_group creates a script that changes the group owner to holberton for the file hello.
 
-File 100-change_owner_and_group creates a script that changes the owner to betty and the group owner to holberton for all the files and directories in the working directory.
+File 100-change_owner_and_group creates a script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 
 File 101-symbolic_link_permissions creates a script that changes the owner and the group owner of the file _hello to betty and holberton respectively.
 
